@@ -1,0 +1,13 @@
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.Api.deps.json
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.Api.runtimeconfig.json
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.Api.runtimeconfig.dev.json
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.Api.dll
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.Api.csprojAssemblyReference.cache
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.Api.RazorAssemblyInfo.cache
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.Api.RazorAssemblyInfo.cs
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.Api.AssemblyInfoInputs.cache
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.Api.AssemblyInfo.cs
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.Api.RazorTargetAssemblyInfo.cache
