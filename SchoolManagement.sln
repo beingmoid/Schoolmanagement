@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagement", "SchoolManagement\SchoolManagement.csproj", "{7A8DA3D8-6DFA-434E-8985-65B035641E5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolManagement.Api", "SchoolManagement\SchoolManagement.Api.csproj", "{7A8DA3D8-6DFA-434E-8985-65B035641E5A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App", "App", "{964704A5-57C7-4BA1-AEC3-D81955A7A7AC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{11868F87-EF82-46F3-BC3B-7C3D1042CD99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagement.Apis", "SchoolManagement.Apis\SchoolManagement.Apis.csproj", "{9D19804C-73AA-4640-9A22-ECF30BCACC21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolManagement.Apis", "SchoolManagement.Apis\SchoolManagement.Apis.csproj", "{9D19804C-73AA-4640-9A22-ECF30BCACC21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagement.Common", "SchoolManagement.Common\SchoolManagement.Common.csproj", "{FFA87D3B-AB11-49B8-A2E1-E92177DB1E9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolManagement.Common", "SchoolManagement.Common\SchoolManagement.Common.csproj", "{FFA87D3B-AB11-49B8-A2E1-E92177DB1E9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagement.Repositories", "SchoolManagement.Repositories\SchoolManagement.Repositories.csproj", "{0D5BFC2B-D0E3-4400-9694-168E35EE3DB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolManagement.Repositories", "SchoolManagement.Repositories\SchoolManagement.Repositories.csproj", "{0D5BFC2B-D0E3-4400-9694-168E35EE3DB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagement.Services", "SchoolManagement.Services\SchoolManagement.Services.csproj", "{D7C78E2A-7845-4482-A46B-312DA3B06A21}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagement.Data", "SchoolManagement.Data\SchoolManagement.Data.csproj", "{9A2AE280-FEBE-45D3-B379-5D42E3621678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagement.Service", "SchoolManagement.Service\SchoolManagement.Service.csproj", "{2887EB23-42CB-4411-BB8A-175CC5CC008B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,10 +41,14 @@ Global
 		{0D5BFC2B-D0E3-4400-9694-168E35EE3DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D5BFC2B-D0E3-4400-9694-168E35EE3DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D5BFC2B-D0E3-4400-9694-168E35EE3DB2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D7C78E2A-7845-4482-A46B-312DA3B06A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D7C78E2A-7845-4482-A46B-312DA3B06A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D7C78E2A-7845-4482-A46B-312DA3B06A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D7C78E2A-7845-4482-A46B-312DA3B06A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A2AE280-FEBE-45D3-B379-5D42E3621678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A2AE280-FEBE-45D3-B379-5D42E3621678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A2AE280-FEBE-45D3-B379-5D42E3621678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A2AE280-FEBE-45D3-B379-5D42E3621678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2887EB23-42CB-4411-BB8A-175CC5CC008B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2887EB23-42CB-4411-BB8A-175CC5CC008B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2887EB23-42CB-4411-BB8A-175CC5CC008B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2887EB23-42CB-4411-BB8A-175CC5CC008B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,7 +58,8 @@ Global
 		{9D19804C-73AA-4640-9A22-ECF30BCACC21} = {11868F87-EF82-46F3-BC3B-7C3D1042CD99}
 		{FFA87D3B-AB11-49B8-A2E1-E92177DB1E9D} = {11868F87-EF82-46F3-BC3B-7C3D1042CD99}
 		{0D5BFC2B-D0E3-4400-9694-168E35EE3DB2} = {11868F87-EF82-46F3-BC3B-7C3D1042CD99}
-		{D7C78E2A-7845-4482-A46B-312DA3B06A21} = {11868F87-EF82-46F3-BC3B-7C3D1042CD99}
+		{9A2AE280-FEBE-45D3-B379-5D42E3621678} = {964704A5-57C7-4BA1-AEC3-D81955A7A7AC}
+		{2887EB23-42CB-4411-BB8A-175CC5CC008B} = {964704A5-57C7-4BA1-AEC3-D81955A7A7AC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F3E79BF-85EA-4AE5-A895-54B782364F00}

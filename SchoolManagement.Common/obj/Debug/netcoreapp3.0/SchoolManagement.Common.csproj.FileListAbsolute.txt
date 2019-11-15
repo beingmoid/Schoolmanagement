@@ -3,3 +3,6 @@ C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Common\bin\Debug\n
 C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Common\obj\Debug\netcoreapp3.0\SchoolManagement.Common.csprojAssemblyReference.cache
 C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Common\obj\Debug\netcoreapp3.0\SchoolManagement.Common.AssemblyInfoInputs.cache
 C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Common\obj\Debug\netcoreapp3.0\SchoolManagement.Common.AssemblyInfo.cs
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Common\bin\Debug\netcoreapp3.0\SchoolManagement.Common.pdb
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Common\obj\Debug\netcoreapp3.0\SchoolManagement.Common.dll
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Common\obj\Debug\netcoreapp3.0\SchoolManagement.Common.pdb

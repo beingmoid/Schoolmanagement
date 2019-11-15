@@ -2,3 +2,10 @@ C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Repositories\bin\D
 C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Repositories\obj\Debug\netcoreapp3.0\SchoolManagement.Repositories.csprojAssemblyReference.cache
 C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Repositories\obj\Debug\netcoreapp3.0\SchoolManagement.Repositories.AssemblyInfoInputs.cache
 C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Repositories\obj\Debug\netcoreapp3.0\SchoolManagement.Repositories.AssemblyInfo.cs
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Repositories\bin\Debug\netcoreapp3.0\SchoolManagement.Repositories.deps.json
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Repositories\bin\Debug\netcoreapp3.0\SchoolManagement.Repositories.dll
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Repositories\bin\Debug\netcoreapp3.0\SchoolManagement.Repositories.pdb
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Repositories\bin\Debug\netcoreapp3.0\SchoolManagement.Common.pdb
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Repositories\obj\Debug\netcoreapp3.0\SchoolManagement.Repositories.csproj.CopyComplete
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Repositories\obj\Debug\netcoreapp3.0\SchoolManagement.Repositories.dll
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Repositories\obj\Debug\netcoreapp3.0\SchoolManagement.Repositories.pdb
