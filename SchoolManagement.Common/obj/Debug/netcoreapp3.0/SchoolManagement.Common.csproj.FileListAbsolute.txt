@@ -1,0 +1,5 @@
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Common\bin\Debug\netcoreapp3.0\SchoolManagement.Common.deps.json
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Common\bin\Debug\netcoreapp3.0\SchoolManagement.Common.dll
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Common\obj\Debug\netcoreapp3.0\SchoolManagement.Common.csprojAssemblyReference.cache
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Common\obj\Debug\netcoreapp3.0\SchoolManagement.Common.AssemblyInfoInputs.cache
+C:\Users\me_mo\source\repos\SchoolManagement\SchoolManagement.Common\obj\Debug\netcoreapp3.0\SchoolManagement.Common.AssemblyInfo.cs
